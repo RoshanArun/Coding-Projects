@@ -1,0 +1,83 @@
+.box {
+    font-size: 50px;
+    text-align: center;
+    font-weight:bold;
+    color:black;
+    font-family: serif, "Garamond";
+  } 
+  
+  .tabbox{
+    font-family: serif, "Garamond";
+    color:black;
+    font-weight:bold;
+  }
+
+  .sign {
+    font-size: 15px;
+    text-align: center;
+    color:blue;
+  } 
+
+  .button1 {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+    font-family: serif, "Garamond";
+  }
+  
+  .button2 {
+    background-color: rgb(53, 199, 53);
+    border: none;
+    color: white;
+    padding: 6px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 14px;
+    font-family: serif, "Garamond";
+
+  }
+  
+  .button3 {
+    background-color: rgb(53, 199, 53);
+    border: none;
+    color: white;
+    padding: 10px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 16px;
+    font-family: serif, "Garamond";
+  }
+
+  .outlineBox{
+    width: 100%;
+    padding: 6px 16px;
+    margin: 8px ;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 12px;
+    font-size: 14px;
+    margin-bottom: 2px;
+    margin-left: 0px;
+    margin-right: 10px;
+
+}
+  
+.Contract{
+  width: 100%;
+    padding: 12px 2px;
+    margin: 8px 0;
+    display: inline-block;
+    font-size: 14px;
+    font-weight:bold;
+}
+
