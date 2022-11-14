@@ -1,4 +1,4 @@
-** start of undefined **
+** start of HTML**
 
 <!DOCTYPE html>
 <html lang="en">
@@ -79,9 +79,9 @@
 
 </html>
 
-** end of undefined **
+** end of HTML**
 
-** start of undefined **
+** start of CSS**
 
 *{
   margin: 0;
@@ -228,5 +228,5 @@ p{
   
 }
 
-** end of undefined **
+** end of CSS**
 

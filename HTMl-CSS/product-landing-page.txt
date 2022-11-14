@@ -1,4 +1,4 @@
-** start of undefined **
+** start of HTML **
 
 <DOCTYPE html>
   <html>
@@ -120,9 +120,9 @@
 
   </html>
 
-** end of undefined **
+** end of HTML**
 
-** start of undefined **
+** start of CSS**
 
 html, body{
   max-width: 100%;
@@ -349,5 +349,5 @@ iframe{
 }
 
 
-** end of undefined **
+** end of CSS**
 
